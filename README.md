@@ -1,5 +1,7 @@
 # fibprimes
 
+"Main" branch contains source code and generated MIDI file. "MP3" branch contains the MP3 file converted from the MIDI file.
+
 ## General
 
 Each chord consists of one Fibonacci number and 4 (sometimes 3) primes. This was an arbitrary decision and can be altered to include more or less notes if one wishes.
