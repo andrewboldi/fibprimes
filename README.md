@@ -2,6 +2,8 @@
 
 Generates music from prime numbers and the Fibonacci sequence, output as a MIDI file.
 
+**[Listen on YouTube](https://youtu.be/6d35PpFB5ZI)**
+
 Each chord consists of a Fibonacci bass note and 4 prime-derived notes.
 
 ## Build & Run
