@@ -1,0 +1,13 @@
+# Compiled binary
+fibprimes
+
+# Generated output
+*.mid
+*.MID
+*.mp3
+*.txt
+
+# Editor / OS
+*.swp
+*~
+.DS_Store
